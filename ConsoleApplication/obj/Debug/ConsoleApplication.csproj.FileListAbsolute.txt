@@ -1,0 +1,15 @@
+C:\CodeAssignment\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.exe.config
+C:\CodeAssignment\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.pdb
+C:\CodeAssignment\Assignment\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\CodeAssignment\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.exe
+C:\CodeAssignment\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.pdb
+C:\Project\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.exe.config
+C:\Project\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.pdb
+C:\Project\Assignment\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Project\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.exe
+C:\Project\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.pdb
+C:\Project\Assignment\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.exe.config
+C:\Project\Assignment\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.exe
+C:\Project\Assignment\Assignment\ConsoleApplication\obj\Debug\ConsoleAssignment.pdb
+C:\Project\Assignment\Assignment\ConsoleApplication\bin\Debug\ConsoleAssignment.pdb
+C:\Project\Assignment\Assignment\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
